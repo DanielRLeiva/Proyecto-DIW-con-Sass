@@ -31,5 +31,8 @@
     "posthtml-include": "^2.0.1",
     "rimraf": "^6.0.1",
     "sharp": "^0.33.5"
+  },
+  "dependencies": {
+    "svgo": "^3.3.2"
   }
 }
